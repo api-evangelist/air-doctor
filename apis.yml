@@ -1,8 +1,30 @@
 aid: air-doctor
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/air-doctor.png
 name: Air Doctor
-description: Air Doctor is a company surfaced as a portfolio company of lightspeed-venture-partners and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Air Doctor is a digital health platform that connects travelers and people
+  living abroad with a global network of vetted private doctors and specialists,
+  offering in-person clinic visits, home visits, and telemedicine appointments
+  in multiple languages across more than 75 countries. Users search for and book
+  local doctors through the Air Doctor mobile app and web app, and the company
+  operates a large B2B business embedding its provider network into travel
+  insurance, assistance, and health-plan partners (including brands such as
+  Allianz Global Assistance, ERGO, World Nomads, and Charles Taylor). Air Doctor
+  is backed by Lightspeed Venture Partners. This API Evangelist profile tracks
+  the company's public developer, partner, and web surface; Air Doctor does not
+  publish a public API or developer portal at this time, so this profile is
+  maintained as an identity and web-property record.
 url: https://raw.githubusercontent.com/api-evangelist/air-doctor/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -15,9 +37,38 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Digital Health
+- Telemedicine
+- Healthcare
+- Travel
+- Travel Insurance
+- Medical Services
+- Health Tech
 apis: []
+common:
+- type: DomainSecurity
+  url: security/air-doctor-domain-security.yml
+- type: Website
+  url: https://www.air-dr.com/
+- type: About
+  url: https://air-dr.com/about-us/
+- type: Blog
+  url: https://air-dr.com/blog/
+- type: Support
+  url: https://air-dr.com/user-faq/
+- type: SignUp
+  url: https://www.air-dr.com/webapp/
+- type: TermsOfService
+  url: https://air-dr.com/terms-of-use/
+- type: PrivacyPolicy
+  url: https://air-dr.com/privacy-policy/
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

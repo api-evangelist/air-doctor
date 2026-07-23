@@ -1,0 +1,14 @@
+{
+  "repo": "air-doctor",
+  "feeds": [
+    {
+      "source": "https://air-dr.com/about-us/",
+      "feed_url": "https://air-dr.com/feed/",
+      "title": "",
+      "saved": 4,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 4,
+  "fetched": "2026-07-20T13:31:34Z"
+}
