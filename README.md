@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Air Doctor is a company surfaced as a portfolio company of lightspeed-venture-partners and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Air Doctor is a digital health platform that connects travelers and people living abroad with a global network of vetted private doctors and specialists, offering in-person clinic visits, home visits, and telemedicine appointments in multiple languages across more than 75 countries. Users search for and book local doctors through the Air Doctor mobile app and web app, and the company operates a large B2B business embedding its provider network into travel insurance, assistance, and health-plan partners (including brands such as Allianz Global Assistance, ERGO, World Nomads, and Charles Taylor). Air Doctor is backed by Lightspeed Venture Partners. This API Evangelist profile tracks the company's public developer, partner, and web surface; Air Doctor does not publish a public API or developer portal at this time, so this profile is maintained as an identity and web-property record.
 
-Backed by: lightspeed-venture-partners
+**Areas:** Company · Digital Health · Telehealth · Healthcare · Travel · Travel Insurance · Medical Services · Health Tech
+
+## Air Doctor on APIs.io
+
+Everything profiled for Air Doctor is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/air-doctor/](https://apis.io/providers/air-doctor/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Air Doctor Domain Security](https://apis.io/security/air-doctor/air-doctor-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.air-dr.com/)
+- [Sign up](https://www.air-dr.com/webapp/)
+- [Support](https://air-dr.com/user-faq/)
+- [Blog](https://air-dr.com/blog/)
+- [Terms of service](https://air-dr.com/terms-of-use/)
+- [Privacy policy](https://air-dr.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 12.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 34.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/air-doctor/](https://apis.io/providers/air-doctor/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Air Doctor: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/air-doctor/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
